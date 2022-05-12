@@ -1,0 +1,17 @@
+{
+  "name": "s3-json-storage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Aaron Williams",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.86.0",
+    "@aws-sdk/lib-storage": "^3.86.0",
+    "jest": "^27.5.1"
+  }
+}
